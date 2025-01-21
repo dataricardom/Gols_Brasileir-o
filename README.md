@@ -41,7 +41,33 @@ Os dados filtrados podem ser salvos em um novo arquivo CSV, contendo apenas as i
 - Salva os dados filtrados em um novo arquivo CSV com nome exclusivo.
 - Mede e exibe o tempo total de execução.
 
+<div align="center">
 
+### CSV Original
+
+</div>
+
+<p align="center">
+    <img src="pic/CSV_ORI.png" alt="logo" width="300"/>
+</p>
+
+<div align="center">
+
+### DataFrame Filtrado por Clube
+</div>
+
+<p align="center">
+    <img src="pic/filt_vasco.png" alt="logo" width="300"/>
+</p>
+
+<div align="center">
+
+### Dataframe com correção de valores nulos em tipo_de_gol
+</div>
+
+<p align="center">
+    <img src="pic/nulos.png" alt="logo" width="300"/>
+</p>
 
 <p align="center">
     <img src="pic/KPUUDATA.png" alt="logo" width="300"/>
