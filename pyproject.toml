@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "projeto-gols-brasileirão"
+version = "0.1.0"
+description = ""
+authors = ["Ricardo Marques <dataricardom@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+black = "^24.10.0"
+
+
+[tool.black]
+line-length = 79
+target-version = ['py39']
+skip-string-normalization = false
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
